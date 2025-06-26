@@ -37,6 +37,14 @@ The SQL database includes the following tables:
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Here’s a snapshot of the interactive dashboard created in Power BI:
+
+![Power BI Dashboard](dashboard.png)
+
+---
+
 ## 🔄 How to Use This Project
 
 - Import the sales_db.sql file into your MySQL database using *MySQL Workbench*.
